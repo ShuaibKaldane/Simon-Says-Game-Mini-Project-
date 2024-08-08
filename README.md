@@ -1,2 +1,2 @@
 # Simon-Says-Game-Mini-Project-
-Simple Simon Says Game
+Simple Simon Says Game.
